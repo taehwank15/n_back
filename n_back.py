@@ -1,3 +1,7 @@
+# N Back
+# May 25, 2019
+# TK
+
 # This program runs the n_back test used to improve working memory. The
 # inspiration for this project came from a Korean t.v. show Problematic Man,
 # whose video can be seen (untranslated) here:
